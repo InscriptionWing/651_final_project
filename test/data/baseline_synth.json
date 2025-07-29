@@ -1,0 +1,68 @@
+[
+  {
+    "incident_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "date_of_incident": "2025-06-23",
+    "time_of_incident": "15:10",
+    "location": "Willow Support House, 16 Alder Court, Campbelltown NSW",
+    "category": "Aggressive Verbal Outburst",
+    "description": "Participant became verbally aggressive when informed of a change in weekend plans. He shouted at staff, knocked over a chair, and used threatening language without physical contact."
+  },
+  {
+    "incident_id": "a12b3c4d-9e8f-4372-b567-1f02b2c3d480",
+    "date_of_incident": "2025-06-20",
+    "time_of_incident": "16:20",
+    "location": "CareLink Apartments, 22 Birch Grove, Liverpool NSW",
+    "category": "Trip and Fall",
+    "description": "Participant tripped over a loose floor mat in the living area, fell to her knees, and reported mild pain. First aid was administered and a nurse confirmed no bruising."
+  },
+  {
+    "incident_id": "b21c3d4e-7f8a-4372-c567-2a03b2c3d481",
+    "date_of_incident": "2025-06-18",
+    "time_of_incident": "17:40",
+    "location": "Sunhaven House, 89 Kingfisher Street, Penrith NSW",
+    "category": "Elopement from Supervised Setting",
+    "description": "Participant exited through an unsecured gate during a shift change. She was found 12 minutes later at a nearby bus stop, calm but distressed about cancelled outing."
+  },
+  {
+    "incident_id": "c31d4e5f-6a7b-4372-d567-3b04b2c3d482",
+    "date_of_incident": "2025-06-14",
+    "time_of_incident": "07:45",
+    "location": "ActiveBridge Apartments, 4 Regent Lane, Castle Hill NSW",
+    "category": "Medication Refusal",
+    "description": "Participant refused morning medication citing stomach discomfort, became withdrawn and later verbally aggressive. Calmed after isolation and monitoring."
+  },
+  {
+    "incident_id": "d41e5f6a-5b6c-4372-e567-4c05b2c3d483",
+    "date_of_incident": "2025-06-26",
+    "time_of_incident": "18:30",
+    "location": "HopePathways Residence, 3/18 Forest Glen Rd, Wagga Wagga NSW",
+    "category": "Accidental Property Damage",
+    "description": "Participant accidentally knocked over a kettle, causing it to break. He became anxious due to noise; no injuries occurred."
+  },
+  {
+    "incident_id": "e51f6a7b-4c5d-4372-f567-5d06b2c3d484",
+    "date_of_incident": "2025-06-21",
+    "time_of_incident": "14:15",
+    "location": "RisingCare House, 45 Ash Tree Ave, Mount Druitt NSW",
+    "category": "Self-Injurious Behaviour – Scratching",
+    "description": "Participant was observed scratching his arms repeatedly. Staff redirected him to a low‑sensory space and applied a cool compress."
+  },
+  {
+    "incident_id": "f61a7b8c-3d4e-4372-a567-6e07b2c3d485",
+    "date_of_incident": "2025-06-17",
+    "time_of_incident": "09:10",
+    "location": "LivingBright House, 92 Coral St, Hornsby NSW",
+    "category": "Missed Program Transport",
+    "description": "Participant was left behind due to staff reading the roster incorrectly. She was upset and spent the morning in her room."
+  },
+  {
+    "incident_id": "a71b8c9d-2e3f-4372-b567-7f08b2c3d486",
+    "date_of_incident": "2025-06-15",
+    "time_of_incident": "18:45",
+    "location": "Pathfinder Support Home, 33 Banksia Blvd, Goulburn NSW",
+    "category": "Peer Conflict – Verbal Dispute",
+    "description": "Participant had a verbal argument with a co‑resident over TV preferences. No physical contact; both were calmly separated."
+  }
+
+
+]
