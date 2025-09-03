@@ -1,0 +1,134 @@
+[
+  {
+    "record_id": "SR24665841",
+    "carer_id": "CR191161",
+    "carer_name": "Joshua Walker",
+    "participant_id": "PT321231",
+    "service_date": "2025-07-08",
+    "service_type": "Transport Assistance",
+    "duration_hours": 0.98,
+    "narrative_notes": "During a 0.98‑hour transport assistance session at the participant’s home, Joshua Walker employed a structured routine and visual cue cards to facilitate safe and predictable travel. He also used calming breathing exercises to support the participant’s seizure management and promote relaxation. The 65‑plus participant with epilepsy was highly cooperative, actively engaged with the cues, and demonstrated clear understanding of the travel plan. As a result, the session concluded with excellent outcomes: the participant reached the destination safely, met all planned objectives, and exceeded the goal of independent transport confidence. No challenges arose, and the participant expressed satisfaction with the support provided.",
+    "created_timestamp": "2025-08-29T19:40:18.759078",
+    "location_type": "Participant's Home",
+    "location_details": "Participant's Home - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Provide accessible transportation options Offer ride‑share vouchers Coordinate with local transit agencies."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Enthusiastic. This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_TRANSPORT_ASSISTANCE_7912",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR83863413",
+    "carer_id": "CR148050",
+    "carer_name": "Debra Gardner",
+    "participant_id": "PT663054",
+    "service_date": "2025-08-19",
+    "service_type": "Community Access",
+    "duration_hours": 5.91,
+    "narrative_notes": "During a 5.91‑hour Community Access session at the local Community Centre, Debra Gardner supported a 36‑year‑old participant with muscular dystrophy. Using task‑analysis and adaptive seating techniques, Debra guided the participant through a structured group activity that focused on social interaction and fine‑motor skills. The participant demonstrated high engagement, responding positively to verbal prompts and visual cues, and maintained cooperation throughout the session. The adaptive seating allowed the participant to remain comfortable and participate fully, reducing fatigue. As a result, the participant exceeded the set goals, showing improved confidence in group settings and enhanced communication skills.",
+    "created_timestamp": "2025-08-29T19:41:34.519023",
+    "location_type": "Community Centre",
+    "location_details": "Community Centre - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Peer mentorship programs Online discussion forums Resource libraries."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_COMMUNITY_ACCESS_1241",
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR71070189",
+    "carer_id": "CR770487",
+    "carer_name": "Danielle Johnson",
+    "participant_id": "PT694916",
+    "service_date": "2025-07-26",
+    "service_type": "Skill Development",
+    "duration_hours": 4.48,
+    "narrative_notes": "During a 4.48‑hour skill‑development session at the healthcare facility, carer Danielle Johnson facilitated a participant aged 18‑25 with Autism Spectrum Disorder. Using a visual schedule and task‑analysis techniques, the session focused on daily living skills and communication strategies. The participant demonstrated high engagement, consistently following the visual prompts and completing tasks with minimal support. Positive reinforcement was applied after each successful task, reinforcing independence and confidence. The participant’s cooperation was evident through sustained attention and proactive participation. Outcomes exceeded the agreed goals, with the participant achieving full independence in the targeted tasks and showing improved communication responses.",
+    "created_timestamp": "2025-08-29T19:43:36.474061",
+    "location_type": "Healthcare Facility",
+    "location_details": "Healthcare Facility - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Mentorship programs Hands‑on workshops Peer coaching."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged. This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_SKILL_DEVELOPMENT_8973",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR82772208",
+    "carer_id": "CR456778",
+    "carer_name": "Robert Johnson",
+    "participant_id": "PT724834",
+    "service_date": "2025-08-21",
+    "service_type": "Community Access",
+    "duration_hours": 3.88,
+    "narrative_notes": "During a 3.88‑hour Community Access session at the participant’s home, Robert Johnson supported a 51‑65‑year‑old individual with a physical disability. Using a person‑centred goal‑setting approach, the carer facilitated a structured activity plan that incorporated the participant’s preferred hobbies and a mobility aid to enhance independence. Robert employed a progressive task‑decomposition technique, breaking down each activity into manageable steps and encouraging the participant to self‑direct the process. The participant responded enthusiastically, remaining highly cooperative and engaged throughout the session.",
+    "created_timestamp": "2025-08-29T19:44:20.922292",
+    "location_type": "Participant's Home",
+    "location_details": "Participant's Home - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Provide clear, step‑by‑step onboarding guides Offer live chat support for immediate assistance Host regular Q&A webinars to address common issues."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Enthusiastic engagement This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_COMMUNITY_ACCESS_8811",
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR86460539",
+    "carer_id": "CR717889",
+    "carer_name": "Patricia Miller",
+    "participant_id": "PT694916",
+    "service_date": "2025-08-13",
+    "service_type": "Skill Development",
+    "duration_hours": 3.97,
+    "narrative_notes": "During a 3.97‑hour skill‑development session at the community centre, Patricia Miller supported the participant, an 18‑to‑25‑year‑old with Autism Spectrum Disorder, in achieving communication and social interaction goals. Patricia employed a visual schedule to structure the session and used task analysis to break down group activities into manageable steps. The participant responded positively, engaging actively with the visual aids and completing each task with minimal prompting. Through consistent positive reinforcement, the participant demonstrated increased confidence in initiating conversations with peers. By the end of the session, the participant exceeded the set objectives, successfully initiating two conversations and completing a group project independently.",
+    "created_timestamp": "2025-08-29T19:46:27.926587",
+    "location_type": "Community Centre",
+    "location_details": "Community Centre - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Mentoring and coaching sessions to provide guidance and personalized feedback Practice and feedback loops that involve deliberate repetition and reflection Peer learning groups where members share knowledge and challenge each other to grow."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_SKILL_DEVELOPMENT_7868",
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR37415205",
+    "carer_id": "CR660086",
+    "carer_name": "Lisa Smith",
+    "participant_id": "PT716886",
+    "service_date": "2025-07-19",
+    "service_type": "Skill Development",
+    "duration_hours": 2.57,
+    "narrative_notes": "During a 2.57‑hour skill development session at the participant’s home, carer Lisa Smith facilitated structured task sequencing and visual cueing to support the 65‑plus participant with acquired brain injury. The session followed the agreed routine, focusing on daily living activities such as meal preparation and medication management. The participant demonstrated engagement and positive affect, successfully completing each task with minimal prompting. Key outcomes included meeting all objectives, increased confidence in independent task execution, and a measurable improvement in task completion speed. No significant challenges arose; the participant’s mild fatigue was noted and addressed by incorporating short breaks.",
+    "created_timestamp": "2025-08-29T19:47:28.923243",
+    "location_type": "Participant's Home",
+    "location_details": "Participant's Home - Professional NDIS support environment",
+    "service_outcome": "neutral",
+    "support_techniques_used": [
+      "Mentorship and coaching sessions Hands‑on practice with immediate feedback Reflective journaling and self‑assessment."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "No reaction This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_SKILL_DEVELOPMENT_3144",
+    "supervision_notes": null
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "validation_timestamp": "2025-08-29T18:45:02.954854",
+  "total_records": 150,
+  "overall_score": 88.64300576829564,
+  "schema_validation": {
+    "passed_records": 131,
+    "failed_records": 19,
+    "compliance_rate": 87.33333333333333
+  },
+  "privacy_analysis": {
+    "anonymization_score": 81.8768750540481,
+    "potential_pii": []
+  },
+  "utility_analysis": {
+    "realism_score": 85.70889514094611,
+    "narrative_quality": 89.57476832141101
+  },
+  "quality_gates": {
+    "schema_validation": {
+      "passed": 131,
+      "failed": 19,
+      "failure_rate": 12.666666666666668
+    },
+    "privacy_risks": {
+      "score": 81.8768750540481,
+      "risks_detected": 2,
+      "failure_rate": 18.1231249459519
+    },
+    "utility_quality": {
+      "score": 85.70889514094611,
+      "failure_rate": 14.291104859053888
+    }
+  },
+  "validation_errors": [
+    "Record SR84658119: Narrative too short",
+    "Record SR28536138: Narrative too short",
+    "Record SR64979380: Narrative too short",
+    "Record SR85512289: Narrative too short",
+    "Record SR85768126: Narrative too short",
+    "Record SR75321403: Narrative too short",
+    "Record SR28519457: Narrative too short",
+    "Record SR90070532: Narrative too short",
+    "Record SR38906645: Narrative too short",
+    "Record SR26779892: Narrative too short",
+    "Record SR10227222: Narrative too short",
+    "Record SR24683358: Narrative too short",
+    "Record SR22624519: Narrative too short",
+    "Record SR88217508: Narrative too short",
+    "Record SR46628005: Narrative too short",
+    "Record SR65113289: Narrative too short",
+    "Record SR25630279: Narrative too short",
+    "Record SR83450617: Narrative too short",
+    "Record SR94349734: Narrative too short"
+  ],
+  "recommendations": [
+    "Consider improving template diversity to reduce potential PII patterns",
+    "Review validation rules for potential over-strictness"
+  ]
+}

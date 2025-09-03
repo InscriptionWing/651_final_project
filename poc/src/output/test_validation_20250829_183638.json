@@ -1,0 +1,42 @@
+{
+  "validation_timestamp": "2025-08-29T18:36:38.220212",
+  "total_records": 10,
+  "overall_score": 90.87860089007086,
+  "schema_validation": {
+    "passed_records": 8,
+    "failed_records": 2,
+    "compliance_rate": 80.0
+  },
+  "privacy_analysis": {
+    "anonymization_score": 81.77101883793405,
+    "potential_pii": []
+  },
+  "utility_analysis": {
+    "realism_score": 94.06952254454089,
+    "narrative_quality": 79.55853905154245
+  },
+  "quality_gates": {
+    "schema_validation": {
+      "passed": 8,
+      "failed": 2,
+      "failure_rate": 20.0
+    },
+    "privacy_risks": {
+      "score": 81.77101883793405,
+      "risks_detected": 0,
+      "failure_rate": 18.22898116206595
+    },
+    "utility_quality": {
+      "score": 94.06952254454089,
+      "failure_rate": 5.930477455459112
+    }
+  },
+  "validation_errors": [
+    "Record SR94092860: Narrative too short",
+    "Record SR11497577: Narrative too short"
+  ],
+  "recommendations": [
+    "Consider improving template diversity to reduce potential PII patterns",
+    "Review validation rules for potential over-strictness"
+  ]
+}

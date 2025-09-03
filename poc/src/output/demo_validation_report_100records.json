@@ -1,0 +1,597 @@
+{
+  "timestamp": "2025-08-29T15:37:46.646210",
+  "total_records": 100,
+  "quality_validation": {
+    "schema_compliance": {
+      "total_records": 100,
+      "valid_records": 100,
+      "invalid_records": 0,
+      "validation_errors": [],
+      "field_completeness": {
+        "record_id": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "carer_id": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "participant_id": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "service_date": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "service_type": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "duration_hours": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "narrative_notes": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "created_timestamp": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "location_type": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "location_details": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "service_outcome": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "support_techniques_used": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "challenges_encountered": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "participant_response": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "follow_up_required": {
+          "count": 100,
+          "percentage": 100.0
+        }
+      },
+      "data_type_errors": []
+    },
+    "data_consistency": {
+      "duplicate_records": [],
+      "inconsistent_patterns": [],
+      "outliers": [
+        {
+          "record_index": 1,
+          "field": "duration_hours",
+          "value": 7.05,
+          "expected_range": "-1.38-6.83"
+        },
+        {
+          "record_index": 8,
+          "field": "duration_hours",
+          "value": 7.86,
+          "expected_range": "-1.38-6.83"
+        },
+        {
+          "record_index": 94,
+          "field": "duration_hours",
+          "value": 7.52,
+          "expected_range": "-1.38-6.83"
+        }
+      ],
+      "temporal_consistency": {
+        "date_range_days": 89,
+        "earliest_date": "2025-05-31",
+        "latest_date": "2025-08-28",
+        "future_dates": 0
+      }
+    }
+  },
+  "privacy_analysis": {
+    "total_records": 100,
+    "privacy_violations": [
+      {
+        "record_index": 0,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Nguyen"
+        ]
+      },
+      {
+        "record_index": 2,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Singh"
+        ]
+      },
+      {
+        "record_index": 4,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Inside Westfield"
+        ]
+      },
+      {
+        "record_index": 5,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jasper Li"
+        ]
+      },
+      {
+        "record_index": 11,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Hana Sato"
+        ]
+      },
+      {
+        "record_index": 12,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "William Tanaka"
+        ]
+      },
+      {
+        "record_index": 13,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Tanaka"
+        ]
+      },
+      {
+        "record_index": 14,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jonas Berg"
+        ]
+      },
+      {
+        "record_index": 15,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Omar Khalil"
+        ]
+      },
+      {
+        "record_index": 16,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Leila Haddad"
+        ]
+      },
+      {
+        "record_index": 17,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Leila Haddad"
+        ]
+      },
+      {
+        "record_index": 18,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Chen"
+        ]
+      },
+      {
+        "record_index": 20,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Amy Tanaka"
+        ]
+      },
+      {
+        "record_index": 21,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jonas Berg"
+        ]
+      },
+      {
+        "record_index": 23,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Hana Sato"
+        ]
+      },
+      {
+        "record_index": 24,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Chloe Park"
+        ]
+      },
+      {
+        "record_index": 26,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Inside Westfield"
+        ]
+      },
+      {
+        "record_index": 27,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Bridget Chen"
+        ]
+      },
+      {
+        "record_index": 32,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Isla Thompson"
+        ]
+      },
+      {
+        "record_index": 34,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Hugo Moreau"
+        ]
+      },
+      {
+        "record_index": 37,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Inside Westfield",
+          "Helen Williams"
+        ]
+      },
+      {
+        "record_index": 38,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Matthew Singh"
+        ]
+      },
+      {
+        "record_index": 39,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Eric Patel"
+        ]
+      },
+      {
+        "record_index": 40,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Rahul Mehta"
+        ]
+      },
+      {
+        "record_index": 41,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jasper Li"
+        ]
+      },
+      {
+        "record_index": 42,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Matthew Patel"
+        ]
+      },
+      {
+        "record_index": 45,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Hugo Moreau"
+        ]
+      },
+      {
+        "record_index": 47,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Christopher Singh"
+        ]
+      },
+      {
+        "record_index": 49,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Colin Chen"
+        ]
+      },
+      {
+        "record_index": 50,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Melanie Garcia"
+        ]
+      },
+      {
+        "record_index": 51,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jasper Li"
+        ]
+      },
+      {
+        "record_index": 52,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Cassandra Nguyen"
+        ]
+      },
+      {
+        "record_index": 53,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lindsay Ahmed"
+        ]
+      },
+      {
+        "record_index": 54,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Chloe Park"
+        ]
+      },
+      {
+        "record_index": 56,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jessica Patel"
+        ]
+      },
+      {
+        "record_index": 57,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Isla Thompson"
+        ]
+      },
+      {
+        "record_index": 62,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Nicholas Tanaka"
+        ]
+      },
+      {
+        "record_index": 65,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Andrea Singh"
+        ]
+      },
+      {
+        "record_index": 67,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Maria Nguyen"
+        ]
+      },
+      {
+        "record_index": 69,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Amara Ndlovu"
+        ]
+      },
+      {
+        "record_index": 70,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Michelle Nguyen"
+        ]
+      },
+      {
+        "record_index": 71,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Barbara Tanaka"
+        ]
+      },
+      {
+        "record_index": 74,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Janet Patel"
+        ]
+      },
+      {
+        "record_index": 75,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Oliver Brown"
+        ]
+      },
+      {
+        "record_index": 77,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Brandon Rossi"
+        ]
+      },
+      {
+        "record_index": 79,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Oliver Brown"
+        ]
+      },
+      {
+        "record_index": 82,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Keith Singh"
+        ]
+      },
+      {
+        "record_index": 84,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Christopher Patel"
+        ]
+      },
+      {
+        "record_index": 85,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Marco Silva"
+        ]
+      },
+      {
+        "record_index": 86,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Nina Ivanova"
+        ]
+      },
+      {
+        "record_index": 87,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Omar Khalil"
+        ]
+      },
+      {
+        "record_index": 88,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Omar Khalil"
+        ]
+      },
+      {
+        "record_index": 90,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Omar Khalil"
+        ]
+      },
+      {
+        "record_index": 91,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Nina Ivanova"
+        ]
+      },
+      {
+        "record_index": 92,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Michael Tanaka"
+        ]
+      },
+      {
+        "record_index": 96,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joseph Singh"
+        ]
+      },
+      {
+        "record_index": 98,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Deborah Nguyen"
+        ]
+      }
+    ],
+    "sensitive_data_found": {
+      "name_pattern": 58
+    },
+    "anonymization_score": 43.0,
+    "risk_level": "HIGH",
+    "text_uniqueness": {
+      "unique_ratio": 1.0,
+      "total_texts": 100,
+      "unique_texts": 100,
+      "similarity_analysis": {
+        "average_similarity": 0.1371,
+        "max_similarity": 0.9584,
+        "sample_size": 100
+      }
+    }
+  },
+  "utility_analysis": {
+    "statistical_analysis": {
+      "duration_stats": {
+        "mean": 2.95,
+        "median": 2.75,
+        "std": 1.55,
+        "min": 0.37,
+        "max": 7.86
+      },
+      "narrative_length_stats": {
+        "mean": 219.1,
+        "median": 217.0,
+        "std": 22.5,
+        "min": 169,
+        "max": 264
+      }
+    },
+    "distribution_analysis": {
+      "service_types": {
+        "交通协助": 7,
+        "社区参与": 14,
+        "物理治疗": 5,
+        "个人护理": 22,
+        "餐食准备": 7,
+        "社交支持": 13,
+        "家务支持": 13,
+        "用药支持": 2,
+        "技能发展": 11,
+        "临时护理": 6
+      },
+      "outcomes": {
+        "positive": 67,
+        "neutral": 20,
+        "negative": 6,
+        "incomplete": 7
+      },
+      "locations": {
+        "社区中心": 10,
+        "药房": 7,
+        "公园": 3,
+        "参与者家中": 41,
+        "其他": 4,
+        "购物中心": 16,
+        "图书馆": 9,
+        "医疗机构": 6,
+        "游泳馆": 4
+      },
+      "weekdays": {
+        "0": 19,
+        "3": 16,
+        "4": 15,
+        "1": 11,
+        "5": 17,
+        "2": 11,
+        "6": 11
+      }
+    },
+    "coverage_analysis": {
+      "unique_carers": 10,
+      "unique_participants": 20,
+      "unique_service_types": 10,
+      "unique_locations": 9,
+      "time_span_days": 89,
+      "records_per_carer": 10.0,
+      "records_per_participant": 5.0
+    },
+    "realism_score": 100.0
+  },
+  "overall_score": 82.9,
+  "recommendations": [
+    "提高数据匿名化程度，移除或模糊敏感信息"
+  ]
+}

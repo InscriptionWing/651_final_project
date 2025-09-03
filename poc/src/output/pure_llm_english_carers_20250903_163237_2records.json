@@ -1,0 +1,46 @@
+[
+  {
+    "record_id": "SR72682989",
+    "carer_id": "CR191161",
+    "carer_name": "Joshua Walker",
+    "participant_id": "PT791798",
+    "service_date": "2025-07-19",
+    "service_type": "Household Tasks",
+    "duration_hours": 1.27,
+    "narrative_notes": "During a 1.27‑hour session at the healthcare facility, Joshua Walker supported the participant, aged 51‑65 with a physical disability, in completing household tasks. Using task‑analysis and adaptive equipment, Joshua facilitated the participant’s independent participation while ensuring safety. The participant demonstrated active engagement, followed instructions, and expressed satisfaction with the progress. Both routine objectives—organising the kitchen and preparing a simple meal—were achieved within the allocated time. No adverse events occurred. Minor challenge: the participant’s limited upper‑body strength required Joshua to assist with lifting utensils, which was addressed through a brief demonstration of safe transfer techniques.",
+    "created_timestamp": "2025-09-03T16:30:25.945125",
+    "location_type": "Healthcare Facility",
+    "location_details": "Healthcare Facility - Professional NDIS support environment",
+    "service_outcome": "neutral",
+    "support_techniques_used": [
+      "Use a visual chore chart to track tasks and progress Set up a reward system to motivate consistent completion Schedule dedicated cleaning blocks to establish routine and reduce overwhelm."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Neutral response This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_HOUSEHOLD_TASKS_2612",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR83863413",
+    "carer_id": "CR717889",
+    "carer_name": "Patricia Miller",
+    "participant_id": "PT774079",
+    "service_date": "2025-07-08",
+    "service_type": "Social Support",
+    "duration_hours": 2.96,
+    "narrative_notes": "During a 2.96‑hour social support session at the community centre, Patricia Miller facilitated a participant aged 51‑65 with cerebral palsy in engaging with group activities. Using task‑analysis and adaptive equipment, she guided the participant through a structured exercise routine and a social interaction exercise, encouraging independent participation. The participant responded positively, demonstrating high cooperation and enthusiasm, and successfully completed all planned activities. Key outcomes included improved confidence in using adaptive tools and enhanced social engagement, surpassing the session goals of increased activity independence and peer interaction. No significant challenges arose; the participant maintained steady energy levels throughout.",
+    "created_timestamp": "2025-09-03T16:32:37.960167",
+    "location_type": "Community Centre",
+    "location_details": "Community Centre - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Active listening to validate feelings and experiences Encouraging participation in group or community activities Providing reliable information and resources for coping strategies."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_SOCIAL_SUPPORT_1241",
+    "supervision_notes": null
+  }
+]

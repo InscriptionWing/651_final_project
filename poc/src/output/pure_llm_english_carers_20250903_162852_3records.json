@@ -1,0 +1,68 @@
+[
+  {
+    "record_id": "SR72682989",
+    "carer_id": "CR191161",
+    "carer_name": "Joshua Walker",
+    "participant_id": "PT791798",
+    "service_date": "2025-07-19",
+    "service_type": "Household Tasks",
+    "duration_hours": 1.27,
+    "narrative_notes": "During the 1.27‑hour session at the healthcare facility, Joshua Walker supported the participant, a 51‑to‑65‑year‑old adult with a physical disability, in completing routine household tasks. Using a person‑centred approach, Joshua employed adaptive tools such as a lightweight stool and a grab‑assist device to facilitate safe movement and reduce strain. He also used guided prompts to encourage independence while ensuring the participant’s comfort. The participant responded positively, engaging in the activities and expressing satisfaction with the progress. Both objectives—maintaining hygiene and organizing the living area—were achieved within the allotted time. No safety incidents occurred, and the participant’s confidence in performing daily tasks was reinforced.",
+    "created_timestamp": "2025-09-03T16:26:39.834630",
+    "location_type": "Healthcare Facility",
+    "location_details": "Healthcare Facility - Professional NDIS support environment",
+    "service_outcome": "neutral",
+    "support_techniques_used": [
+      "Use a visual chore chart to track daily tasks Set a consistent schedule for routine chores Break large tasks into smaller, manageable steps."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Neutral response This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_HOUSEHOLD_TASKS_2612",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR81979055",
+    "carer_id": "CR498382",
+    "carer_name": "Jeffery Wagner",
+    "participant_id": "PT688637",
+    "service_date": "2025-08-02",
+    "service_type": "Personal Care",
+    "duration_hours": 1.98,
+    "narrative_notes": "Jeffery Wagner delivered a 1.98‑hour personal care session at the participant’s home, supporting a 65‑year‑old individual with a spinal cord injury. Using a sliding board transfer technique and adaptive toileting aids, Jeffery facilitated safe mobility and independence while maintaining dignity. The participant was highly cooperative, actively engaged in the routine, and expressed satisfaction with the care provided. Outcomes exceeded the agreed goals: the participant demonstrated increased confidence during transfers, reported reduced pain, and achieved a higher level of functional independence than at the start of the session. No significant challenges arose; the environment was safe and the participant’s communication needs were met with respectful, person‑centred language.",
+    "created_timestamp": "2025-09-03T16:27:24.474937",
+    "location_type": "Participant's Home",
+    "location_details": "Participant's Home - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Use of visual schedules to guide routine steps Task analysis to break down each step Positive reinforcement to encourage independence."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged. This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_PERSONAL_CARE_5092",
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR97529405",
+    "carer_id": "CR191161",
+    "carer_name": "Joshua Walker",
+    "participant_id": "PT665492",
+    "service_date": "2025-06-24",
+    "service_type": "Personal Care",
+    "duration_hours": 3.43,
+    "narrative_notes": "During the scheduled 3.43‑hour personal care session at the park, Joshua Walker supported a participant aged 26‑35 with vision impairment. The carer employed tactile orientation techniques and verbal cueing to facilitate navigation and routine tasks. The participant demonstrated willingness to engage, following verbal prompts, but struggled with independent movement due to limited visual input. Objectives related to independent walking and self‑care were partially achieved; however, the session was concluded early because of fatigue and safety concerns. Key challenges included reduced daylight visibility and the participant’s need for additional guidance.",
+    "created_timestamp": "2025-09-03T16:28:52.615517",
+    "location_type": "Park",
+    "location_details": "Park - Professional NDIS support environment",
+    "service_outcome": "incomplete",
+    "support_techniques_used": [
+      "Use of adaptive clothing with easy fastenings Assistive devices such as shower chairs or grab bars Scheduled reminders or prompts for daily hygiene tasks."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Not finished This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": true,
+    "billing_code": "NDIS_PERSONAL_CARE_4872",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  }
+]

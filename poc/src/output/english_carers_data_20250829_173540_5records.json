@@ -1,0 +1,124 @@
+[
+  {
+    "record_id": "SR72682989",
+    "carer_id": "CR191161",
+    "carer_name": "Joshua Walker",
+    "participant_id": "PT791798",
+    "service_date": "2025-07-14",
+    "service_type": "Household Tasks",
+    "duration_hours": 1.27,
+    "narrative_notes": "Provided routine household tasks support to the participant today. The session proceeded according to the established care plan with standard levels of engagement. Using behavioral reinforcement methodologies, we maintained consistency with previous sessions and achieved the planned objectives within the 1.27 hour timeframe.",
+    "created_timestamp": "2025-08-29T17:35:40.048988",
+    "location_type": "Healthcare Facility",
+    "location_details": "specialized healthcare center - Healthcare Facility",
+    "service_outcome": "neutral",
+    "support_techniques_used": [
+      "social modeling",
+      "visual prompting",
+      "adaptive equipment utilization",
+      "structured guidance"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Stable engagement",
+    "follow_up_required": false,
+    "billing_code": "NDIS_HOUSEHOLD_TASKS_8350",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR20117988",
+    "carer_id": "CR731262",
+    "carer_name": "Jill Rhodes",
+    "participant_id": "PT265840",
+    "service_date": "2025-06-30",
+    "service_type": "Personal Care",
+    "duration_hours": 3.51,
+    "narrative_notes": "Successfully provided personal care support to the participant today. The participant demonstrated excellent cooperation and actively engaged throughout the 3.51 hour session. Using collaborative planning approaches, we achieved all planned objectives with outstanding results. The participant showed enthusiasm and made significant progress in their support goals.",
+    "created_timestamp": "2025-08-29T17:35:40.048988",
+    "location_type": "Community Centre",
+    "location_details": "neighborhood center - Community Centre",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "adaptive equipment utilization",
+      "positive encouragement"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Exceeded expectations",
+    "follow_up_required": false,
+    "billing_code": "NDIS_PERSONAL_CARE_8886",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR62401521",
+    "carer_id": "CR662275",
+    "carer_name": "Anthony Gonzalez",
+    "participant_id": "PT321231",
+    "service_date": "2025-08-07",
+    "service_type": "Household Tasks",
+    "duration_hours": 4.92,
+    "narrative_notes": "Facilitated household tasks support with exceptional results today. The participant demonstrated outstanding motivation and actively participated in all planned activities. Using evidence-based collaborative planning strategies, we successfully accomplished all established care objectives with measurable positive outcomes.",
+    "created_timestamp": "2025-08-29T17:35:40.048988",
+    "location_type": "Community Centre",
+    "location_details": "accessible community center - Community Centre",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "structured guidance",
+      "routine establishment"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Very cooperative",
+    "follow_up_required": false,
+    "billing_code": "NDIS_HOUSEHOLD_TASKS_9883",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR77491435",
+    "carer_id": "CR498382",
+    "carer_name": "Jeffery Wagner",
+    "participant_id": "PT321231",
+    "service_date": "2025-08-22",
+    "service_type": "Community Access",
+    "duration_hours": 5.19,
+    "narrative_notes": "Supported the participant with community access activities while managing behavioral escalation. Despite consistent application of environmental modification methodologies, engagement remained limited throughout the session. Additional resources and strategy adjustments are required for future sessions.",
+    "created_timestamp": "2025-08-29T17:35:40.048988",
+    "location_type": "Participant's Home",
+    "location_details": "supportive home environment - Participant's Home",
+    "service_outcome": "negative",
+    "support_techniques_used": [
+      "independence promotion",
+      "environmental modification"
+    ],
+    "challenges_encountered": [
+      "Attention and focus difficulties",
+      "Time constraints",
+      "Communication barriers"
+    ],
+    "participant_response": "Challenging session",
+    "follow_up_required": true,
+    "billing_code": "NDIS_COMMUNITY_ACCESS_1651",
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR44999379",
+    "carer_id": "CR662275",
+    "carer_name": "Anthony Gonzalez",
+    "participant_id": "PT639131",
+    "service_date": "2025-06-17",
+    "service_type": "Community Access",
+    "duration_hours": 6.3,
+    "narrative_notes": "Facilitated community access support with exceptional results today. The participant demonstrated outstanding motivation and actively participated in all planned activities. Using evidence-based task breakdown strategies, we successfully accomplished all established care objectives with measurable positive outcomes.",
+    "created_timestamp": "2025-08-29T17:35:40.048988",
+    "location_type": "Participant's Home",
+    "location_details": "supportive home environment - Participant's Home",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "social modeling",
+      "environmental modification",
+      "person-centered communication"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Exceeded expectations",
+    "follow_up_required": false,
+    "billing_code": "NDIS_COMMUNITY_ACCESS_2638",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  }
+]

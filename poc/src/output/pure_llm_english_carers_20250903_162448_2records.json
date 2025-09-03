@@ -1,0 +1,46 @@
+[
+  {
+    "record_id": "SR24665841",
+    "carer_id": "CR191161",
+    "carer_name": "Joshua Walker",
+    "participant_id": "PT321231",
+    "service_date": "2025-07-13",
+    "service_type": "Transport Assistance",
+    "duration_hours": 0.98,
+    "narrative_notes": "During a 0.98‑hour transport assistance session at the participant’s home, Joshua Walker facilitated a safe and comfortable journey to a scheduled medical appointment. He employed a visual schedule to outline the steps of the transfer and used a calm, person‑centred communication style to reassure the participant. The participant, a 65‑year‑old with epilepsy, remained calm, followed the visual cues, and engaged in gentle breathing exercises to manage any potential seizure triggers. The carer’s use of a secure transfer technique ensured the participant’s safety and comfort throughout the process. The participant responded positively, demonstrating full cooperation and confidence in the support provided.",
+    "created_timestamp": "2025-09-03T16:23:48.910169",
+    "location_type": "Participant's Home",
+    "location_details": "Participant's Home - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Providing a dedicated transport coordinator Assisting with vehicle modifications and adaptive equipment Arranging community or shared transport options."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_TRANSPORT_ASSISTANCE_7912",
+    "supervision_notes": "Supervision completed as per NDIS requirements"
+  },
+  {
+    "record_id": "SR83863413",
+    "carer_id": "CR148050",
+    "carer_name": "Debra Gardner",
+    "participant_id": "PT663054",
+    "service_date": "2025-08-24",
+    "service_type": "Community Access",
+    "duration_hours": 5.91,
+    "narrative_notes": "During a 5.91‑hour community access session at the community centre, Carer Debra Gardner supported a participant aged 36‑50 with muscular dystrophy. Using a modified exercise program and adaptive seating, the carer facilitated participation in group activities, ensuring safe movement and comfort. The participant demonstrated high cooperation, actively engaged in conversation and group tasks, and expressed enjoyment of the social interaction. The session achieved all set goals and exceeded expectations, with the participant showing increased confidence and improved communication skills. Minor challenge was managing fatigue, addressed by incorporating short rest breaks and hydration reminders.",
+    "created_timestamp": "2025-09-03T16:24:48.715714",
+    "location_type": "Community Centre",
+    "location_details": "Community Centre - Professional NDIS support environment",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Provide clear, searchable documentation and FAQs Offer a live chat or ticketing system for real‑time help Create a community forum or knowledge base for peer support."
+    ],
+    "challenges_encountered": [],
+    "participant_response": "Highly engaged This service was provided in accordance with NDIS standards and participant care plan requirements.",
+    "follow_up_required": false,
+    "billing_code": "NDIS_COMMUNITY_ACCESS_1241",
+    "supervision_notes": null
+  }
+]

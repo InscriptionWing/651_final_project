@@ -1,0 +1,889 @@
+{
+  "timestamp": "2025-08-29T17:50:47.693999",
+  "total_records": 100,
+  "quality_validation": {
+    "schema_compliance": {
+      "total_records": 100,
+      "valid_records": 100,
+      "invalid_records": 0,
+      "validation_errors": [],
+      "field_completeness": {
+        "record_id": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "carer_id": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "carer_name": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "participant_id": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "service_date": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "service_type": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "duration_hours": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "narrative_notes": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "created_timestamp": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "location_type": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "location_details": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "service_outcome": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "support_techniques_used": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "challenges_encountered": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "participant_response": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "follow_up_required": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "billing_code": {
+          "count": 100,
+          "percentage": 100.0
+        },
+        "supervision_notes": {
+          "count": 33,
+          "percentage": 33.0
+        }
+      },
+      "data_type_errors": []
+    },
+    "data_consistency": {
+      "duplicate_records": [],
+      "inconsistent_patterns": [],
+      "outliers": [],
+      "temporal_consistency": {
+        "date_range_days": 87,
+        "earliest_date": "2025-06-02",
+        "latest_date": "2025-08-28",
+        "future_dates": 0
+      }
+    }
+  },
+  "privacy_analysis": {
+    "total_records": 100,
+    "privacy_violations": [
+      {
+        "record_index": 0,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 1,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 2,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 3,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Challenging"
+        ]
+      },
+      {
+        "record_index": 4,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 5,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Cooperative"
+        ]
+      },
+      {
+        "record_index": 6,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 7,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Adequate"
+        ]
+      },
+      {
+        "record_index": 8,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 9,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 10,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 11,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 12,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 13,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 14,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 15,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 16,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 17,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 18,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Highly"
+        ]
+      },
+      {
+        "record_index": 19,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Highly"
+        ]
+      },
+      {
+        "record_index": 20,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 21,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 22,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 23,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 24,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Highly"
+        ]
+      },
+      {
+        "record_index": 25,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Other Location"
+        ]
+      },
+      {
+        "record_index": 26,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 27,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 28,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 29,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 30,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 31,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 32,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 33,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 34,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 35,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Other Location"
+        ]
+      },
+      {
+        "record_index": 36,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Library Challenging"
+        ]
+      },
+      {
+        "record_index": 37,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Adequate"
+        ]
+      },
+      {
+        "record_index": 38,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Adequate"
+        ]
+      },
+      {
+        "record_index": 39,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 40,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 41,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 42,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Partial"
+        ]
+      },
+      {
+        "record_index": 43,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 44,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 45,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 46,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 47,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Library Adequate"
+        ]
+      },
+      {
+        "record_index": 48,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 49,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 50,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 51,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 52,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 53,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Pharmacy Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 54,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 55,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Library Highly"
+        ]
+      },
+      {
+        "record_index": 56,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 57,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 58,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 59,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 60,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 61,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 62,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Pharmacy Adequate"
+        ]
+      },
+      {
+        "record_index": 63,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Highly"
+        ]
+      },
+      {
+        "record_index": 64,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 65,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 66,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 67,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Limited"
+        ]
+      },
+      {
+        "record_index": 68,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Stable"
+        ]
+      },
+      {
+        "record_index": 69,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Requires"
+        ]
+      },
+      {
+        "record_index": 70,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Highly"
+        ]
+      },
+      {
+        "record_index": 71,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 72,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Highly"
+        ]
+      },
+      {
+        "record_index": 73,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 74,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 75,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 76,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 77,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 78,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 79,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 80,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 81,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 82,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Very"
+        ]
+      },
+      {
+        "record_index": 83,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Park Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 84,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 85,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Standard"
+        ]
+      },
+      {
+        "record_index": 86,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 87,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Enthusiastic"
+        ]
+      },
+      {
+        "record_index": 88,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 89,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Cooperative"
+        ]
+      },
+      {
+        "record_index": 90,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 91,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 92,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 93,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Exceeded"
+        ]
+      },
+      {
+        "record_index": 94,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Requires"
+        ]
+      },
+      {
+        "record_index": 95,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Required"
+        ]
+      },
+      {
+        "record_index": 96,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Required"
+        ]
+      },
+      {
+        "record_index": 97,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Home Required"
+        ]
+      },
+      {
+        "record_index": 98,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Pharmacy Challenging"
+        ]
+      },
+      {
+        "record_index": 99,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Healthcare Facility"
+        ]
+      }
+    ],
+    "sensitive_data_found": {
+      "name_pattern": 100
+    },
+    "anonymization_score": 0,
+    "risk_level": "HIGH",
+    "text_uniqueness": {
+      "unique_ratio": 1.0,
+      "total_texts": 100,
+      "unique_texts": 100,
+      "similarity_analysis": {
+        "average_similarity": 0.2246,
+        "max_similarity": 0.897,
+        "sample_size": 100
+      }
+    }
+  },
+  "utility_analysis": {
+    "statistical_analysis": {
+      "duration_stats": {
+        "mean": 3.1,
+        "median": 2.7,
+        "std": 1.7,
+        "min": 0.73,
+        "max": 7.32
+      },
+      "narrative_length_stats": {
+        "mean": 321.58,
+        "median": 321.0,
+        "std": 28.57,
+        "min": 256,
+        "max": 372
+      }
+    },
+    "distribution_analysis": {
+      "service_types": {
+        "Household Tasks": 20,
+        "Personal Care": 28,
+        "Community Access": 17,
+        "Social Support": 14,
+        "Transport Assistance": 8,
+        "Physiotherapy": 6,
+        "Respite Care": 2,
+        "Skill Development": 4,
+        "Medication Support": 1
+      },
+      "outcomes": {
+        "neutral": 16,
+        "positive": 69,
+        "negative": 11,
+        "incomplete": 4
+      },
+      "locations": {
+        "Healthcare Facility": 10,
+        "Community Centre": 22,
+        "Participant's Home": 50,
+        "Swimming Pool": 4,
+        "Shopping Centre": 5,
+        "Other Location": 2,
+        "Library": 3,
+        "Pharmacy": 3,
+        "Park": 1
+      },
+      "weekdays": {
+        "0": 18,
+        "3": 17,
+        "4": 16,
+        "1": 11,
+        "5": 14,
+        "2": 14,
+        "6": 10
+      }
+    },
+    "coverage_analysis": {
+      "unique_carers": 10,
+      "unique_participants": 20,
+      "unique_service_types": 9,
+      "unique_locations": 9,
+      "time_span_days": 87,
+      "records_per_carer": 10.0,
+      "records_per_participant": 5.0
+    },
+    "realism_score": 100.0
+  },
+  "overall_score": 70.0,
+  "recommendations": [
+    "提高数据匿名化程度，移除或模糊敏感信息"
+  ]
+}

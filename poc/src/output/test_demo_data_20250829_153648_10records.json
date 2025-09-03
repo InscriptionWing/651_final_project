@@ -1,0 +1,222 @@
+[
+  {
+    "record_id": "SR35714784",
+    "carer_id": "CR876646",
+    "participant_id": "PT905934",
+    "service_date": "2025-08-04",
+    "service_type": "交通协助",
+    "duration_hours": 0.96,
+    "narrative_notes": "While queuing at the library reception, Christopher Nguyen showed early signs of discomfort. Used a calm voice, gave two simple choices, and moved to a quieter table; around midday near the returns desk, engagement improved and tasks were completed. 使用了沟通辅助方法进行交通协助。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "社区中心",
+    "location_details": "社区中心的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "口语指导",
+      "视觉提示",
+      "感官支持"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "表现出兴趣",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR41726318",
+    "carer_id": "CR770487",
+    "participant_id": "PT322955",
+    "service_date": "2025-08-07",
+    "service_type": "社区参与",
+    "duration_hours": 7.05,
+    "narrative_notes": "At the local pool reception, 杰 Ahmed hesitated with the noise. Practised slow breathing together and shifted to the quieter lane area; late morning in the hallway, tension eased and the session continued smoothly. 使用了环境适应方法进行社区参与。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "药房",
+    "location_details": "药房的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "行为强化",
+      "时间管理"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "积极参与",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR84593961",
+    "carer_id": "CR543143",
+    "participant_id": "PT665492",
+    "service_date": "2025-06-05",
+    "service_type": "物理治疗",
+    "duration_hours": 0.95,
+    "narrative_notes": "In the community garden, 岩 Singh became unsettled by lawnmower noise. Used noise-reducing earmuffs and reframed the task; in the afternoon near the tool shed, cooperation resumed and activities continued. 使用了渐进式引导方法进行物理治疗。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "公园",
+    "location_details": "公园的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "视觉提示",
+      "社交技能训练"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "表现出兴趣",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR81286543",
+    "carer_id": "CR838797",
+    "participant_id": "PT446479",
+    "service_date": "2025-08-08",
+    "service_type": "个人护理",
+    "duration_hours": 3.48,
+    "narrative_notes": "While queuing at the library reception, 婷婷 Nguyen showed early signs of discomfort. Used a calm voice, gave two simple choices, and moved to a quieter table; around midday near the returns desk, engagement improved and tasks were completed. 使用了感官调节方法进行个人护理。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "参与者家中",
+    "location_details": "参与者家中的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "环境调整"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "表现出兴趣",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR93131979",
+    "carer_id": "CR835911",
+    "participant_id": "PT944151",
+    "service_date": "2025-08-18",
+    "service_type": "社区参与",
+    "duration_hours": 4.66,
+    "narrative_notes": "Inside Westfield’s food court, 建平 Williams became tense by the music volume. Validated feelings, offered water, and relocated to a corner table; early evening by the exit, cooperation increased and the plan progressed. 使用了行为塑造方法进行社区参与。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "药房",
+    "location_details": "药房的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "时间管理",
+      "口语指导"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "表现出兴趣",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR52436584",
+    "carer_id": "CR543143",
+    "participant_id": "PT226882",
+    "service_date": "2025-08-19",
+    "service_type": "个人护理",
+    "duration_hours": 2.47,
+    "narrative_notes": "At the community hall foyer, Jasper Li reported mild overwhelm from foot traffic. Stepped aside and validated feelings; late morning, operations continued at standard pace. 使用了感官调节方法进行个人护理。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "参与者家中",
+    "location_details": "参与者家中的具体区域",
+    "service_outcome": "neutral",
+    "support_techniques_used": [
+      "物理协助",
+      "社交技能训练"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "表现平稳",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR48250360",
+    "carer_id": "CR717889",
+    "participant_id": "PT694916",
+    "service_date": "2025-08-08",
+    "service_type": "社区参与",
+    "duration_hours": 3.12,
+    "narrative_notes": "At the physiotherapy clinic corridor, 秀芳 Tanaka seemed anxious by the hallway traffic. Offered a short walk and water; around midday by the seating area, calm returned and the session proceeded. 使用了渐进式引导方法进行社区参与。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "其他",
+    "location_details": "其他的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "行为强化",
+      "感官支持",
+      "视觉提示"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "配合良好",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR24366125",
+    "carer_id": "CR543143",
+    "participant_id": "PT358607",
+    "service_date": "2025-06-19",
+    "service_type": "个人护理",
+    "duration_hours": 1.24,
+    "narrative_notes": "During a physio check-in, Anthony Rossi appeared unsettled by the waiting time. Provided a visual schedule and sand timer; in the waiting area, focus returned and goals were met without further issues. 使用了沟通辅助方法进行个人护理。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "参与者家中",
+    "location_details": "参与者家中的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "口语指导"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "表现出兴趣",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR15917225",
+    "carer_id": "CR581741",
+    "participant_id": "PT857168",
+    "service_date": "2025-08-28",
+    "service_type": "社区参与",
+    "duration_hours": 7.86,
+    "narrative_notes": "During grocery self-checkout, 萍 Garcia showed rising stress. Broke the task into small steps and modelled scanning; late morning near the kiosk, pace improved and the task was completed. 使用了环境适应方法进行社区参与。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "参与者家中",
+    "location_details": "参与者家中的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "口语指导"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "配合良好",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  },
+  {
+    "record_id": "SR14835614",
+    "carer_id": "CR629903",
+    "participant_id": "PT858490",
+    "service_date": "2025-07-12",
+    "service_type": "交通协助",
+    "duration_hours": 0.82,
+    "narrative_notes": "During a quick stop at the community pharmacy, Jeffery Patel paused at the entrance due to the crowd. Offered headphones and a brief pause; mid-afternoon by the doorway, staff agreed on a small next step and the visit stayed on track. 使用了行为塑造方法进行交通协助。",
+    "created_timestamp": "2025-08-29T15:36:48.274692",
+    "location_type": "参与者家中",
+    "location_details": "参与者家中的具体区域",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "环境调整",
+      "感官支持",
+      "视觉提示"
+    ],
+    "challenges_encountered": [],
+    "participant_response": "积极参与",
+    "follow_up_required": false,
+    "billing_code": null,
+    "supervision_notes": null
+  }
+]

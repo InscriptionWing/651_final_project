@@ -1,0 +1,171 @@
+[
+  {
+    "record_id": "SR88669416",
+    "carer_id": "CR768555",
+    "participant_id": "PT265821",
+    "service_date": "2025-08-28",
+    "service_type": "社交支持",
+    "duration_hours": 4.14,
+    "narrative_notes": "Facilitated social interaction with peers at community group. Client demonstrated better communication skills.",
+    "location_type": "购物中心",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Communication aids"
+    ],
+    "follow_up_required": true,
+    "created_timestamp": "2025-08-21T18:36:38.220212"
+  },
+  {
+    "record_id": "SR38991724",
+    "carer_id": "CR715507",
+    "participant_id": "PT444942",
+    "service_date": "2025-08-28",
+    "service_type": "个人护理",
+    "duration_hours": 4.75,
+    "narrative_notes": "Assisted participant with personal hygiene and grooming activities. Client showed good cooperation and maintained dignity throughout the session.",
+    "location_type": "医疗机构",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Visual prompts",
+      "Behavioral strategies",
+      "Physical assistance"
+    ],
+    "follow_up_required": true,
+    "created_timestamp": "2025-08-14T18:36:38.220212"
+  },
+  {
+    "record_id": "SR90514892",
+    "carer_id": "CR772330",
+    "participant_id": "PT657334",
+    "service_date": "2025-08-07",
+    "service_type": "物理治疗",
+    "duration_hours": 0.63,
+    "narrative_notes": "Standard service provided with good outcomes.",
+    "location_type": "公园",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Physical assistance",
+      "Communication aids",
+      "Verbal guidance"
+    ],
+    "follow_up_required": true,
+    "created_timestamp": "2025-08-06T18:36:38.220212"
+  },
+  {
+    "record_id": "SR54336879",
+    "carer_id": "CR563611",
+    "participant_id": "PT190605",
+    "service_date": "2025-08-06",
+    "service_type": "交通协助",
+    "duration_hours": 2.2,
+    "narrative_notes": "Provided transport assistance to medical appointment. Participant arrived on time and felt supported throughout journey.",
+    "location_type": "其他",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Physical assistance",
+      "Verbal guidance"
+    ],
+    "follow_up_required": false,
+    "created_timestamp": "2025-08-09T18:36:38.220212"
+  },
+  {
+    "record_id": "SR35789932",
+    "carer_id": "CR844961",
+    "participant_id": "PT753375",
+    "service_date": "2025-08-09",
+    "service_type": "临时护理",
+    "duration_hours": 3.43,
+    "narrative_notes": "Standard service provided with good outcomes. Additional notes: Session lasted 3.43 hours with positive participant engagement throughout.",
+    "location_type": "药房",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Communication aids",
+      "Sensory support"
+    ],
+    "follow_up_required": false,
+    "created_timestamp": "2025-08-20T18:36:38.220212"
+  },
+  {
+    "record_id": "SR20352760",
+    "carer_id": "CR214894",
+    "participant_id": "PT666389",
+    "service_date": "2025-08-03",
+    "service_type": "个人护理",
+    "duration_hours": 0.74,
+    "narrative_notes": "Completed personal care routine including bathing assistance. Client expressed satisfaction with the level of support provided.",
+    "location_type": "参与者家中",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Sensory support",
+      "Behavioral strategies"
+    ],
+    "follow_up_required": true,
+    "created_timestamp": "2025-07-30T18:36:38.220212"
+  },
+  {
+    "record_id": "SR90483692",
+    "carer_id": "CR528440",
+    "participant_id": "PT675249",
+    "service_date": "2025-08-05",
+    "service_type": "技能发展",
+    "duration_hours": 1.29,
+    "narrative_notes": "Standard service provided with good outcomes.",
+    "location_type": "公园",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Verbal guidance",
+      "Physical assistance"
+    ],
+    "follow_up_required": true,
+    "created_timestamp": "2025-08-06T18:36:38.220212"
+  },
+  {
+    "record_id": "SR60982577",
+    "carer_id": "CR181389",
+    "participant_id": "PT135570",
+    "service_date": "2025-08-20",
+    "service_type": "交通协助",
+    "duration_hours": 0.83,
+    "narrative_notes": "Provided transport assistance to medical appointment. Participant arrived on time and felt supported throughout journey. Additional notes: Session lasted 0.83 hours with positive participant engagement throughout.",
+    "location_type": "公园",
+    "service_outcome": "positive",
+    "support_techniques_used": [
+      "Visual prompts"
+    ],
+    "follow_up_required": true,
+    "created_timestamp": "2025-08-19T18:36:38.220212"
+  },
+  {
+    "record_id": "SR86426901",
+    "carer_id": "CR173712",
+    "participant_id": "PT709407",
+    "service_date": "2025-08-12",
+    "service_type": "家务支持",
+    "duration_hours": 4.12,
+    "narrative_notes": "Assisted with laundry and basic meal preparation. Client showed interest in developing independent living skills. Additional notes: Session lasted 4.12 hours with positive participant engagement throughout.",
+    "location_type": "公园",
+    "service_outcome": "negative",
+    "support_techniques_used": [
+      "Verbal guidance"
+    ],
+    "follow_up_required": false,
+    "created_timestamp": "2025-08-11T18:36:38.220212"
+  },
+  {
+    "record_id": "SR52324283",
+    "carer_id": "CR939625",
+    "participant_id": "PT434813",
+    "service_date": "2025-08-10",
+    "service_type": "社区参与",
+    "duration_hours": 4.57,
+    "narrative_notes": "Facilitated attendance at community center activities. Client showed improved social interaction skills. Additional notes: Session lasted 4.57 hours with positive participant engagement throughout.",
+    "location_type": "购物中心",
+    "service_outcome": "neutral",
+    "support_techniques_used": [
+      "Communication aids",
+      "Sensory support"
+    ],
+    "follow_up_required": false,
+    "created_timestamp": "2025-07-31T18:36:38.220212"
+  }
+]

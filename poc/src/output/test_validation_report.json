@@ -1,0 +1,201 @@
+{
+  "timestamp": "2025-08-29T15:36:48.286975",
+  "total_records": 10,
+  "quality_validation": {
+    "schema_compliance": {
+      "total_records": 10,
+      "valid_records": 10,
+      "invalid_records": 0,
+      "validation_errors": [],
+      "field_completeness": {
+        "record_id": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "carer_id": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "participant_id": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "service_date": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "service_type": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "duration_hours": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "narrative_notes": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "created_timestamp": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "location_type": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "location_details": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "service_outcome": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "support_techniques_used": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "challenges_encountered": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "participant_response": {
+          "count": 10,
+          "percentage": 100.0
+        },
+        "follow_up_required": {
+          "count": 10,
+          "percentage": 100.0
+        }
+      },
+      "data_type_errors": []
+    },
+    "data_consistency": {
+      "duplicate_records": [],
+      "inconsistent_patterns": [],
+      "outliers": [],
+      "temporal_consistency": {
+        "date_range_days": 84,
+        "earliest_date": "2025-06-05",
+        "latest_date": "2025-08-28",
+        "future_dates": 0
+      }
+    }
+  },
+  "privacy_analysis": {
+    "total_records": 10,
+    "privacy_violations": [
+      {
+        "record_index": 0,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Christopher Nguyen"
+        ]
+      },
+      {
+        "record_index": 4,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Inside Westfield"
+        ]
+      },
+      {
+        "record_index": 5,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jasper Li"
+        ]
+      },
+      {
+        "record_index": 7,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Rossi"
+        ]
+      },
+      {
+        "record_index": 9,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Patel"
+        ]
+      }
+    ],
+    "sensitive_data_found": {
+      "name_pattern": 5
+    },
+    "anonymization_score": 50.0,
+    "risk_level": "HIGH",
+    "text_uniqueness": {
+      "unique_ratio": 1.0,
+      "total_texts": 10,
+      "unique_texts": 10,
+      "similarity_analysis": {
+        "average_similarity": 0.146,
+        "max_similarity": 0.8944,
+        "sample_size": 10
+      }
+    }
+  },
+  "utility_analysis": {
+    "statistical_analysis": {
+      "duration_stats": {
+        "mean": 3.26,
+        "median": 2.79,
+        "std": 2.56,
+        "min": 0.82,
+        "max": 7.86
+      },
+      "narrative_length_stats": {
+        "mean": 228.3,
+        "median": 226.0,
+        "std": 24.5,
+        "min": 189,
+        "max": 266
+      }
+    },
+    "distribution_analysis": {
+      "service_types": {
+        "交通协助": 2,
+        "社区参与": 4,
+        "物理治疗": 1,
+        "个人护理": 3
+      },
+      "outcomes": {
+        "positive": 9,
+        "neutral": 1
+      },
+      "locations": {
+        "社区中心": 1,
+        "药房": 2,
+        "公园": 1,
+        "参与者家中": 5,
+        "其他": 1
+      },
+      "weekdays": {
+        "0": 2,
+        "3": 4,
+        "4": 2,
+        "1": 1,
+        "5": 1
+      }
+    },
+    "coverage_analysis": {
+      "unique_carers": 8,
+      "unique_participants": 10,
+      "unique_service_types": 4,
+      "unique_locations": 5,
+      "time_span_days": 84,
+      "records_per_carer": 1.25,
+      "records_per_participant": 1.0
+    },
+    "realism_score": 70.0
+  },
+  "overall_score": 76.0,
+  "recommendations": [
+    "提高数据匿名化程度，移除或模糊敏感信息",
+    "改进数据真实性，确保服务时长和结果分布合理",
+    "增加服务类型的多样性"
+  ]
+}

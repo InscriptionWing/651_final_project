@@ -1,0 +1,1429 @@
+{
+  "timestamp": "2025-08-29T22:20:32.840342",
+  "total_records": 95,
+  "quality_validation": {
+    "schema_compliance": {
+      "total_records": 95,
+      "valid_records": 95,
+      "invalid_records": 0,
+      "validation_errors": [],
+      "field_completeness": {
+        "record_id": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "carer_id": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "carer_name": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "participant_id": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "service_date": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "service_type": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "duration_hours": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "narrative_notes": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "created_timestamp": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "location_type": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "location_details": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "service_outcome": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "support_techniques_used": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "challenges_encountered": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "participant_response": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "follow_up_required": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "billing_code": {
+          "count": 95,
+          "percentage": 100.0
+        },
+        "supervision_notes": {
+          "count": 22,
+          "percentage": 23.157894736842106
+        }
+      },
+      "data_type_errors": [
+        {
+          "record_index": 0,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 1,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 2,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 3,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 4,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 5,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 6,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 7,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 8,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 9,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 10,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 11,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 12,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 13,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 14,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 15,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 16,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 17,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 18,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 19,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 20,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 21,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 22,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 23,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 24,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 25,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 26,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 27,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 28,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 29,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 30,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 31,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 32,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 33,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 34,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 35,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 36,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 37,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 38,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 39,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 40,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 41,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 42,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 43,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 44,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 45,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 46,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 47,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 48,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 49,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 50,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 51,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 52,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 53,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 54,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 55,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 56,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 57,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 58,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 59,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 60,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 61,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 62,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 63,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 64,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 65,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 66,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 67,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 68,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 69,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 70,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 71,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 72,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 73,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 74,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 75,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 76,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 77,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 78,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 79,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 80,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 81,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 82,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 83,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 84,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 85,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 86,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 87,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 88,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 89,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 90,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 91,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 92,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 93,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        },
+        {
+          "record_index": 94,
+          "field": "narrative_notes",
+          "error": "叙述长度不在要求范围内"
+        }
+      ]
+    },
+    "data_consistency": {
+      "duplicate_records": [],
+      "inconsistent_patterns": [],
+      "outliers": [
+        {
+          "record_index": 28,
+          "field": "duration_hours",
+          "value": 7.5,
+          "expected_range": "-1.66-7.14"
+        },
+        {
+          "record_index": 37,
+          "field": "duration_hours",
+          "value": 7.71,
+          "expected_range": "-1.66-7.14"
+        },
+        {
+          "record_index": 40,
+          "field": "duration_hours",
+          "value": 7.45,
+          "expected_range": "-1.66-7.14"
+        },
+        {
+          "record_index": 64,
+          "field": "duration_hours",
+          "value": 7.84,
+          "expected_range": "-1.66-7.14"
+        },
+        {
+          "record_index": 83,
+          "field": "duration_hours",
+          "value": 7.8,
+          "expected_range": "-1.66-7.14"
+        }
+      ],
+      "temporal_consistency": {
+        "date_range_days": 88,
+        "earliest_date": "2025-05-31",
+        "latest_date": "2025-08-27",
+        "future_dates": 0
+      }
+    }
+  },
+  "privacy_analysis": {
+    "total_records": 95,
+    "privacy_violations": [
+      {
+        "record_index": 0,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 1,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Wagner"
+        ]
+      },
+      {
+        "record_index": 2,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker",
+          "Incomplete This"
+        ]
+      },
+      {
+        "record_index": 3,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner"
+        ]
+      },
+      {
+        "record_index": 4,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 5,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith"
+        ]
+      },
+      {
+        "record_index": 6,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 7,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith"
+        ]
+      },
+      {
+        "record_index": 8,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Robert",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 9,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller"
+        ]
+      },
+      {
+        "record_index": 10,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence",
+          "Down Syndrome",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 11,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes"
+        ]
+      },
+      {
+        "record_index": 12,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson"
+        ]
+      },
+      {
+        "record_index": 13,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes"
+        ]
+      },
+      {
+        "record_index": 14,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Wagner"
+        ]
+      },
+      {
+        "record_index": 15,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 16,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 17,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Patricia",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 18,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner"
+        ]
+      },
+      {
+        "record_index": 19,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson"
+        ]
+      },
+      {
+        "record_index": 20,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 21,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 22,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker"
+        ]
+      },
+      {
+        "record_index": 23,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson",
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 24,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Danielle Johnson",
+          "Down Syndrome"
+        ]
+      },
+      {
+        "record_index": 25,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes",
+          "Community Access",
+          "Cerebral Palsy"
+        ]
+      },
+      {
+        "record_index": 26,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 27,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith"
+        ]
+      },
+      {
+        "record_index": 28,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller"
+        ]
+      },
+      {
+        "record_index": 29,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre",
+          "Jeffrey Lawrence",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 30,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 31,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 32,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Gonzalez"
+        ]
+      },
+      {
+        "record_index": 33,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith"
+        ]
+      },
+      {
+        "record_index": 34,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Access",
+          "Carer Jeffrey"
+        ]
+      },
+      {
+        "record_index": 35,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Access",
+          "Debra Gardner"
+        ]
+      },
+      {
+        "record_index": 36,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 37,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Gonzalez"
+        ]
+      },
+      {
+        "record_index": 38,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Danielle Johnson",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 39,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 40,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes",
+          "Down Syndrome"
+        ]
+      },
+      {
+        "record_index": 41,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 42,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Gonzalez",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 43,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 44,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner",
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 45,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 46,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Wagner"
+        ]
+      },
+      {
+        "record_index": 47,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson",
+          "Community Centre",
+          "Neutral This"
+        ]
+      },
+      {
+        "record_index": 48,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 49,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Personal Care",
+          "Jeffrey Lawrence",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 50,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller"
+        ]
+      },
+      {
+        "record_index": 51,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes"
+        ]
+      },
+      {
+        "record_index": 52,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner"
+        ]
+      },
+      {
+        "record_index": 53,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Patricia",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 54,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Debra",
+          "Down Syndrome"
+        ]
+      },
+      {
+        "record_index": 55,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller"
+        ]
+      },
+      {
+        "record_index": 56,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 57,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 58,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 59,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner"
+        ]
+      },
+      {
+        "record_index": 60,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith"
+        ]
+      },
+      {
+        "record_index": 61,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Robert"
+        ]
+      },
+      {
+        "record_index": 62,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Danielle Johnson"
+        ]
+      },
+      {
+        "record_index": 63,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 64,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 65,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson"
+        ]
+      },
+      {
+        "record_index": 66,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Access",
+          "Community Centre",
+          "Jill Rhodes",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 67,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Gonzalez",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 68,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Debra"
+        ]
+      },
+      {
+        "record_index": 69,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Carer Patricia",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 70,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jill Rhodes"
+        ]
+      },
+      {
+        "record_index": 71,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 72,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Gonzalez",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 73,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Danielle Johnson"
+        ]
+      },
+      {
+        "record_index": 74,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker"
+        ]
+      },
+      {
+        "record_index": 75,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller"
+        ]
+      },
+      {
+        "record_index": 76,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Lisa Smith",
+          "Swimming Pool"
+        ]
+      },
+      {
+        "record_index": 77,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence"
+        ]
+      },
+      {
+        "record_index": 78,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre",
+          "Robert Johnson",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 79,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Anthony Gonzalez",
+          "Community Access"
+        ]
+      },
+      {
+        "record_index": 80,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Patricia Miller",
+          "Healthcare Facility"
+        ]
+      },
+      {
+        "record_index": 81,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Danielle Johnson",
+          "Down Syndrome"
+        ]
+      },
+      {
+        "record_index": 82,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Access",
+          "Jill Rhodes",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 83,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Robert Johnson"
+        ]
+      },
+      {
+        "record_index": 84,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence"
+        ]
+      },
+      {
+        "record_index": 85,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Wagner"
+        ]
+      },
+      {
+        "record_index": 86,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner",
+          "Down Syndrome",
+          "Other Location"
+        ]
+      },
+      {
+        "record_index": 87,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Centre",
+          "Jeffrey Lawrence",
+          "Community Centre",
+          "Unresponsive This"
+        ]
+      },
+      {
+        "record_index": 88,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker"
+        ]
+      },
+      {
+        "record_index": 89,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Joshua Walker"
+        ]
+      },
+      {
+        "record_index": 90,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffery Wagner",
+          "Shopping Centre"
+        ]
+      },
+      {
+        "record_index": 91,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Danielle Johnson"
+        ]
+      },
+      {
+        "record_index": 92,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Community Access",
+          "Jeffrey Lawrence",
+          "Community Centre"
+        ]
+      },
+      {
+        "record_index": 93,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Jeffrey Lawrence"
+        ]
+      },
+      {
+        "record_index": 94,
+        "pattern_type": "name_pattern",
+        "matches": [
+          "Debra Gardner",
+          "Community Centre"
+        ]
+      }
+    ],
+    "sensitive_data_found": {
+      "name_pattern": 163
+    },
+    "anonymization_score": 0,
+    "risk_level": "HIGH",
+    "text_uniqueness": {
+      "unique_ratio": 1.0,
+      "total_texts": 95,
+      "unique_texts": 95,
+      "similarity_analysis": {
+        "average_similarity": 0.3056,
+        "max_similarity": 0.5547,
+        "sample_size": 95
+      }
+    }
+  },
+  "utility_analysis": {
+    "statistical_analysis": {
+      "duration_stats": {
+        "mean": 3.08,
+        "median": 2.63,
+        "std": 1.83,
+        "min": 0.5,
+        "max": 7.84
+      },
+      "narrative_length_stats": {
+        "mean": 730.73,
+        "median": 738,
+        "std": 45.72,
+        "min": 587,
+        "max": 796
+      }
+    },
+    "distribution_analysis": {
+      "service_types": {
+        "Household Tasks": 15,
+        "Personal Care": 31,
+        "Physiotherapy": 6,
+        "Skill Development": 4,
+        "Respite Care": 1,
+        "Social Support": 6,
+        "Community Access": 23,
+        "Transport Assistance": 7,
+        "Meal Preparation": 2
+      },
+      "outcomes": {
+        "neutral": 16,
+        "positive": 66,
+        "incomplete": 5,
+        "negative": 8
+      },
+      "locations": {
+        "Healthcare Facility": 7,
+        "Participant's Home": 37,
+        "Park": 4,
+        "Community Centre": 24,
+        "Pharmacy": 2,
+        "Shopping Centre": 11,
+        "Library": 6,
+        "Swimming Pool": 3,
+        "Other Location": 1
+      },
+      "weekdays": {
+        "0": 12,
+        "3": 11,
+        "4": 14,
+        "5": 14,
+        "2": 21,
+        "1": 13,
+        "6": 10
+      }
+    },
+    "coverage_analysis": {
+      "unique_carers": 10,
+      "unique_participants": 19,
+      "unique_service_types": 9,
+      "unique_locations": 9,
+      "time_span_days": 88,
+      "records_per_carer": 9.5,
+      "records_per_participant": 5.0
+    },
+    "realism_score": 90.0
+  },
+  "overall_score": 67.0,
+  "recommendations": [
+    "提高数据匿名化程度，移除或模糊敏感信息"
+  ]
+}
