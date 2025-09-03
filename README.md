@@ -202,16 +202,6 @@ python dashboard/data_aggregator.py
 
 This project is for educational and research purposes only.
 
-## 🤝 Contributing
-
-Welcome to submit issue reports and feature suggestions!
-
-## 📞 Support
-
-For technical support, please check:
-1. Project documentation and examples
-2. FAQ section
-3. Error log analysis
 
 ---
 
