@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-A synthetic data generator designed specifically for the Australian National Disability Insurance Scheme (NDIS) carer services. This project uses local LLM technology to generate high-quality, privacy-compliant English carer service records for safe data analysis, system testing, and business analytics without using real participant sensitive data.
+A synthetic data generator designed specifically for the National Disability Insurance Scheme (NDIS) carer services. This project uses local LLM technology to generate high-quality, privacy-compliant English carer service records for safe data analysis, system testing, and business analytics without using real participant sensitive data.
 
 ## 🎯 Core Features
 
