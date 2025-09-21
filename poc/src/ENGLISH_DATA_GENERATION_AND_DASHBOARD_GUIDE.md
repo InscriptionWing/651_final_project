@@ -9,7 +9,7 @@ This guide will teach you how to use `main_english.py` to generate new English c
 
 ```bash
 # Navigate to project directory
-cd D:\651\poc\new
+cd D:\651\poc\nsrc
 
 # One-click generation of 30 records and dashboard update
 python dashboard\generate_and_update.py --size 30
@@ -34,7 +34,7 @@ python dashboard\generate_and_update.py --demo --size 20
 
 #### Option A: Using main_english.py (High Quality, Slower)
 ```bash
-cd D:\651\poc\new
+cd D:\651\poc\src
 python main_english.py --size 25
 ```
 
@@ -55,7 +55,7 @@ python dashboard\run_with_english_data.py --skip-generation
 ### Step 2: Update Dashboard Data
 
 ```bash
-cd D:\651\poc\new\dashboard
+cd D:\651\poc\src\dashboard
 python data_aggregator.py
 ```
 
@@ -72,27 +72,27 @@ python dashboard\start_simple.py
 
 ### 1. Generate Small Batch Test Data
 ```bash
-cd D:\651\poc\new
+cd D:\651\poc\src
 python main_english.py --size 10
 python dashboard\data_aggregator.py
 ```
 
 ### 2. Generate Large Batch Production Data
 ```bash
-cd D:\651\poc\new
+cd D:\651\poc\src
 python main_english.py --size 100 --output-formats json jsonl csv
 python dashboard\data_aggregator.py
 ```
 
 ### 3. Validate Existing Data Only
 ```bash
-cd D:\651\poc\new
+cd D:\651\poc\src
 python main_english.py --validate-file output\your_data_file.json
 ```
 
 ### 4. Quick Demo Workflow
 ```bash
-cd D:\651\poc\new
+cd D:\651\poc\src
 python dashboard\generate_and_update.py --demo --size 15
 ```
 
@@ -101,7 +101,7 @@ python dashboard\generate_and_update.py --demo --size 15
 ### Scenario 1: Regular New Data Generation
 ```bash
 # Each time generating new data
-cd D:\651\poc\new
+cd D:\651\poc\src
 
 # 1. Generate data
 python main_english.py --size 50
@@ -152,14 +152,14 @@ After generating new data, you will see in the dashboard:
 ### Issue 1: ImportError
 ```bash
 # Ensure running in correct directory
-cd D:\651\poc\new
+cd D:\651\poc\src
 python main_english.py --size 10
 ```
 
 ### Issue 2: Dashboard Data Not Updating
 ```bash
 # Manually run data aggregation
-cd D:\651\poc\new\dashboard
+cd D:\651\poc\src\dashboard
 python data_aggregator.py
 
 # Then refresh browser page
@@ -168,7 +168,7 @@ python data_aggregator.py
 ### Issue 3: Dashboard Inaccessible
 ```bash
 # Restart dashboard
-cd D:\651\poc\new
+cd D:\651\poc\src
 python dashboard\start_simple.py
 ```
 
@@ -193,19 +193,19 @@ D:\651\poc\new\output\
 
 ### Dashboard Database
 ```
-D:\651\poc\new\dashboard\metrics.db
+D:\651\poc\src\dashboard\metrics.db
 ```
 
 ### Log Files
 ```
-D:\651\poc\new\logs\generator.log
+D:\651\poc\src\logs\generator.log
 ```
 
 ## 🎉 Recommended Complete Workflow
 
 ```bash
 # 1. Navigate to project directory
-cd D:\651\poc\new
+cd D:\651\poc\src
 
 # 2. One-click generate and update (recommended)
 python dashboard\generate_and_update.py --size 30
@@ -391,3 +391,4 @@ python main_english.py --validate-file output\data.json
 ```
 
 **Happy data generation and dashboard monitoring!** 🚀
+
