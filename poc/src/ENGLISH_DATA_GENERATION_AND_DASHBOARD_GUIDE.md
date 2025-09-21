@@ -9,7 +9,7 @@ This guide will teach you how to use `main_english.py` to generate new English c
 
 ```bash
 # Navigate to project directory
-cd D:\651\poc\nsrc
+cd D:\651\poc\src
 
 # One-click generation of 30 records and dashboard update
 python dashboard\generate_and_update.py --size 30
@@ -391,4 +391,5 @@ python main_english.py --validate-file output\data.json
 ```
 
 **Happy data generation and dashboard monitoring!** 🚀
+
 
